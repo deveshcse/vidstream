@@ -10,11 +10,6 @@ VidStream is a YouTube-inspired video platform built using React, Redux, and the
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 VidStream replicates essential features of YouTube, allowing users to search for and view videos in real time. This project showcases my proficiency in React development, API integration, and UI/UX design.
@@ -38,4 +33,4 @@ VidStream replicates essential features of YouTube, allowing users to search for
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vidstream.git
+   git clone https://github.com/deveshcse/vidstream.git
