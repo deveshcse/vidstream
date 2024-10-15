@@ -2,7 +2,8 @@
 
 VidStream is a YouTube-inspired video platform built using React, Redux, and the YouTube API. It provides a seamless user experience for video search, trending video display, and video playback, with additional features like shorts, music playlists, and gaming content.
 
-![VidStream Thumbnail]('screenshot\Screenshot (141).png') 
+![VidStream Thumbnail](./screenshot/Screenshot (141).png)
+
 
 ## Table of Contents
 - [Overview](#overview)
